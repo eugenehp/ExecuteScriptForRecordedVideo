@@ -1,0 +1,10 @@
+2014-01-30	02:25:28	UTC	comment	server	INFO	200	-	ModuleWriteListener.onWriteComplete[hdfvr/_definst_/1391048726770_930]: /home/ec2-user/celebvideo/www/httpdocs/v/1391048726770_930.flv	-	-	-	648.866	-	-	--
+2014-01-30	02:25:28	UTC	comment	server	INFO	200	-	ExecuteScriptForRecordedVideo script name is /home/ec2-user/script.sh	-	-	-	648.867	-	-	-	-	-	-	-	-	-	-	--
+2014-01-30	02:25:28	UTC	comment	server	INFO	200	-	ExecuteScriptForRecordedVideo result is
+
+0: /usr/bin/node
+1: /home/ec2-user/transcoder/index.js
+2: /home/ec2-user/celebvideo/www/httpdocs/v/1391048726770_930.flv
+
+
+====================
